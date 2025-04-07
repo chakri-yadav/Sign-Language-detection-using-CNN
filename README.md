@@ -16,7 +16,7 @@ This Python script is designed for character recognition using OpenCV and machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/character-recognition.git
+   git clone https://github.com/chakri-yadav/code.git
    ```
 
 2. Install the required dependencies:
@@ -30,7 +30,7 @@ This Python script is designed for character recognition using OpenCV and machin
 1. Run the Python script to perform character recognition on an input image.
 
    ```bash
-   python character_recognition.py
+   python code.py
    ```
 
 2. Follow the prompts or modify the script to adapt it to your specific use case.
@@ -44,7 +44,7 @@ This Python script is designed for character recognition using OpenCV and machin
 
 The code is organized as follows:
 
-- **`character_recognition.py`**: The main Python script for character recognition.
+- **`code.py`**: The main Python script for character recognition.
 - **`README.md`**: This documentation file.
 
 ## License
